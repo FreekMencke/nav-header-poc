@@ -12,8 +12,8 @@ export class MyComponent {
   readonly SESSION_STORAGE_KEY: string = 'NAV_HEADER_STATE';
 
   @State() apps: App[] = [
-    { name: 'Application one', url: '/application-one' },
-    { name: 'Application two', url: '/application-two' },
+    { name: 'DFS', url: '/feature/nav-poc-dfs' },
+    { name: 'Visit', url: '/feature/nav-poc-visit' },
   ];
   @State() alerts: number = 0;
   @State() dropdownVisible: boolean = false;

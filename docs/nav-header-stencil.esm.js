@@ -1,1 +1,1 @@
-import{p as e,b as a}from"./p-30a85843.js";(()=>{const a=import.meta.url,o={};return""!==a&&(o.resourcesUrl=new URL(".",a).href),e(o)})().then((e=>a([["p-baea4e41",[[1,"my-component",{apps:[32],alerts:[32],dropdownVisible:[32],addAlert:[64]},[[8,"pushstate","onRouteChange"]]]]]],e)));
+import{p as o,b as p}from"./p-30a85843.js";(()=>{const p=import.meta.url,t={};return""!==p&&(t.resourcesUrl=new URL(".",p).href),o(t)})().then((o=>p([["p-783f33fa",[[1,"my-component",{apps:[32],alerts:[32],dropdownVisible:[32],addAlert:[64]},[[8,"pushstate","onRouteChange"]]]]]],o)));
